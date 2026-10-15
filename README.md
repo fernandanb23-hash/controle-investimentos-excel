@@ -33,6 +33,13 @@ Transformar cálculos financeiros em informações claras e organizadas, facilit
 Durante o desenvolvimento, pratiquei a aplicação de fórmulas financeiras, a criação de tabelas de apoio, a utilização de intervalos nomeados e a construção de uma ferramenta interativa no Excel.
 
 O projeto reforçou a importância de compreender as necessidades do negócio e transformar cálculos em uma solução prática para apoiar a tomada de decisão.
+
+## Demonstração da ferramenta
+
+### Horizon Invest — Simulador de investimentos
+
+![Horizon Invest - Simulador de investimentos](horizon-invest-simulador.png)
+
 ## Observação
 
 Os valores, as taxas de rendimento e os percentuais utilizados são exemplos para fins educacionais. As simulações não garantem rentabilidade nem constituem recomendação de investimento.
