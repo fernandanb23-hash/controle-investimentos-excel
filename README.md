@@ -23,7 +23,7 @@ Transformar cálculos financeiros em informações claras e organizadas, facilit
 
 - **Microsoft Excel:** desenvolvimento da ferramenta.
 - **Função VF:** cálculo do valor futuro dos investimentos.
-- **PROCV:** busca dos percentuais de distribuição por perfil.
+- **PROCX:** busca dos percentuais de distribuição por perfil.
 - **Validação de dados:** seleção do perfil de investidor por lista suspensa.
 - **Intervalos nomeados:** organização e legibilidade das fórmulas.
 - **Referências absolutas:** padronização dos cálculos e projeções.
